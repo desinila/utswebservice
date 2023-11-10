@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "nama": "Kota Lama Semarang",
+        "alamat": "Jalan Letjen Suprapto No.31",
+        "jenis_wisata": "wisata budaya"
+    },
+    {
+        "id": 2,
+        "nama": "Klenteng Sam Poo Kong",
+        "alamat": "Jalan Condrokusumo Dalam 8",
+        "jenis_wisata": "wisata religius"
+    },
+    {
+        "id": 3,
+        "nama": "Pantai Marina",
+        "alamat": "Jalan Yos Sudarso",
+        "jenis_wisata": "wisata alam"
+    },
+    {
+        "id": 4,
+        "nama": "Lawang Sewu",
+        "alamat": "Jalan Pemuda, Sekayu,Semarang Tengah",
+        "jenis_wisata": "wisata budaya"
+    },
+    {
+        "id": 5,
+        "nama": "Masjid Agung Jawa Tengah",
+        "alamat": "Jalan Gajah Raya, Sambirejo",
+        "jenis_wisata": "wisata religius"
+    },
+    {
+        "id": 6,
+        "nama": "Museum Ronggowarsito",
+        "alamat": "Jalan Abdul Rahman Saleh No.1",
+        "jenis_wisata": "wisata budaya"
+    },
+    {
+        "id": 7,
+        "nama": "Kawasan Pecinan Semarang",
+        "alamat": "Kelurahan Kauman",
+        "jenis_wisata": "wisata kuliner"
+    },
+    {
+        "id": 8,
+        "nama": "Candi Gedong Songo",
+        "alamat": "Krajan, Candi, Bandungan, Semarang",
+        "jenis_wisata": "wisata alam"
+    },
+    {
+        "id": 9,
+        "nama": "Tugu Muda Semarang",
+        "alamat": "Jalan Pemuda",
+        "jenis_wisata": "wisata budaya"
+    },
+    {
+        "id": 10,
+        "nama": "Umbul Sidomukti",
+        "alamat": "Blanten Lor, Jetis, Kabupaten Semarang",
+        "jenis_wisata": "wisata alam\r\n"
+    },
+    {
+        "id": 11,
+        "nama": "Gereja Blenduk",
+        "alamat": "Jalan Letjen Suprapto, No 32, Semarang",
+        "jenis_wisata": "wisata budaya"
+    }
+]
