@@ -1,3 +1,6 @@
+Nama : Desi Nila Arum Sari
+NIM : 20.01.55.3002
+
 1. Membaca Data (READ)
 
 2. Menambah Data (CREATE)
